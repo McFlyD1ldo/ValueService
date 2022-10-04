@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#not in use, console app
+caValueService/
+
+#unit tests
+ValueServiceTest/

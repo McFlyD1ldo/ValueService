@@ -24,7 +24,7 @@ namespace wfValueService
             catch (Exception)
             {
                 MessageBox.Show("There was an error converting your number.\n" +
-                                "Try entering your number with one of the following postfactors:\n" +
+                                "Try entering your number with one of the following postfactors: \n" +
                                 _vs.displayPostfactors(), "!ERROR!");
             }
             
